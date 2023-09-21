@@ -1,6 +1,7 @@
 import { GlobalConfiguration } from "../cfg"
 import { ValidLocale } from "../i18n"
 import { QuartzPluginData } from "../plugins/vfile"
+import { formatDistanceToNow } from "date-fns"
 
 interface Props {
   date: Date
@@ -26,6 +27,6 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
   })
 }
 
-export function Date({ date, locale }: Props) {
-  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
+export function Date({ date }: Props) {
+  return <time datetime={date.toISOString()}>{formatDistanceToNow(date)} ago</time>
 }
