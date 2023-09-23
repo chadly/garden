@@ -1,3 +1,531 @@
 {
-	"cleanUrls": true
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/agile-software-development",
+      "destination": "/blog/agile-software-development",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/02/01/Agile-Software-Development-from-a-Business-Perspective.aspx",
+      "destination": "/blog/agile-software-development",
+      "permanent": true
+    },
+    {
+      "source": "/agile-software-development-from-a-business-perspective",
+      "destination": "/blog/agile-software-development",
+      "permanent": true
+    },
+    {
+      "source": "/2009/02/agile-software-development-from-a-business-perspective",
+      "destination": "/blog/agile-software-development",
+      "permanent": true
+    },
+    {
+      "source": "/2009/02/agile-software-development",
+      "destination": "/blog/agile-software-development",
+      "permanent": true
+    },
+    {
+      "source": "/asp-net-mvc-and-sealed-classes",
+      "destination": "/blog/asp-net-mvc-and-sealed-classes",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/03/14/AspNet-MVC-and-Sealed-Classes.aspx",
+      "destination": "/blog/asp-net-mvc-and-sealed-classes",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/asp-net-mvc-and-sealed-classes",
+      "destination": "/blog/asp-net-mvc-and-sealed-classes",
+      "permanent": true
+    },
+    {
+      "source": "/automate-all-the-things-with-wercker",
+      "destination": "/blog/automate-all-the-things-with-wercker",
+      "permanent": true
+    },
+    {
+      "source": "/bdd-with-xunit-net",
+      "destination": "/blog/bdd-with-xunit-net",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/04/20/BDD-with-xUnit.aspx",
+      "destination": "/blog/bdd-with-xunit-net",
+      "permanent": true
+    },
+    {
+      "source": "/2009/04/bdd-with-xunit-net",
+      "destination": "/blog/bdd-with-xunit-net",
+      "permanent": true
+    },
+    {
+      "source": "/dependency-injection-with-nhibernate-and-autofac",
+      "destination": "/blog/dependency-injection-with-nhibernate-and-autofac",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/05/28/Dependency-Injection-with-NHibernate-and-Autofac.aspx",
+      "destination": "/blog/dependency-injection-with-nhibernate-and-autofac",
+      "permanent": true
+    },
+    {
+      "source": "/2009/05/dependency-injection-with-nhibernate-and-autofac",
+      "destination": "/blog/dependency-injection-with-nhibernate-and-autofac",
+      "permanent": true
+    },
+    {
+      "source": "/2009/05/dependency-injection-with-nhi",
+      "destination": "/blog/dependency-injection-with-nhibernate-and-autofac",
+      "permanent": true
+    },
+    {
+      "source": "/developing-with-passion",
+      "destination": "/blog/developing-with-passion",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/03/29/Developing-with-Passion.aspx",
+      "destination": "/blog/developing-with-passion",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/developing-with-passion",
+      "destination": "/blog/developing-with-passion",
+      "permanent": true
+    },
+    {
+      "source": "/handle-monorail-404s-gracefully",
+      "destination": "/blog/handle-monorail-404s-gracefully",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/03/10/Custom-MonorailHttpHandlerFactory-to-handle-404s-gracefully.aspx",
+      "destination": "/blog/handle-monorail-404s-gracefully",
+      "permanent": true
+    },
+    {
+      "source": "/custom-monorailhttphandlerfactory-to-handle-404s-gracefully",
+      "destination": "/blog/handle-monorail-404s-gracefully",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/custom-monorailhttphandlerfactory-to-handle-404s-gracefully",
+      "destination": "/blog/handle-monorail-404s-gracefully",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/handle-monorail-404s-gracefully",
+      "destination": "/blog/handle-monorail-404s-gracefully",
+      "permanent": true
+    },
+    {
+      "source": "/embracing-the-indieweb",
+      "destination": "/blog/embracing-the-indieweb",
+      "permanent": true
+    },
+    {
+      "source": "/epson-gt-s50-linux",
+      "destination": "/blog/epson-gt-s50-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/02/epson-gt-s50-linux",
+      "destination": "/blog/epson-gt-s50-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/02/scanning-ocr-with-epson-gt-s50-on-linux-mint",
+      "destination": "/blog/epson-gt-s50-linux",
+      "permanent": true
+    },
+    {
+      "source": "/etags-performance",
+      "destination": "/blog/etags-performance",
+      "permanent": true
+    },
+    {
+      "source": "/gatsby-html-comment",
+      "destination": "/blog/gatsby-html-comment",
+      "permanent": true
+    },
+    {
+      "source": "/ghost-on-azure",
+      "destination": "/blog/ghost-on-azure",
+      "permanent": true
+    },
+    {
+      "source": "/git-bcompare",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2014/05/git-bcompare",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2014/05/git-bcompare3",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2016/09/configuring-beyond-compare-4-with-git",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2014/05/configuring-beyond-compare-3-with-git",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2016/09/git-bcompare",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2016/09/git-bcompare4",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/2014/05/configuring-beyond-compare-with-git",
+      "destination": "/blog/git-bcompare",
+      "permanent": true
+    },
+    {
+      "source": "/healthy-developers",
+      "destination": "/blog/healthy-developers",
+      "permanent": true
+    },
+    {
+      "source": "/2014/02/healthy-developers",
+      "destination": "/blog/healthy-developers",
+      "permanent": true
+    },
+    {
+      "source": "/2014/02/a-good-developer-is-a-healthy-developer",
+      "destination": "/blog/healthy-developers",
+      "permanent": true
+    },
+    {
+      "source": "/hello-universe",
+      "destination": "/blog/hello-universe",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/01/25/Hello-Universe.aspx",
+      "destination": "/blog/hello-universe",
+      "permanent": true
+    },
+    {
+      "source": "/2009/01/hello-universe",
+      "destination": "/blog/hello-universe",
+      "permanent": true
+    },
+    {
+      "source": "/knockout-inline-confirm",
+      "destination": "/blog/knockout-inline-confirm",
+      "permanent": true
+    },
+    {
+      "source": "/lazy-loading-with-knockout",
+      "destination": "/blog/lazy-loading-with-knockout",
+      "permanent": true
+    },
+    {
+      "source": "/lazy-loading-an-observable-array-with-knockout-js",
+      "destination": "/blog/lazy-loading-with-knockout",
+      "permanent": true
+    },
+    {
+      "source": "/2012/09/lazy-loading-an-observable-array-with-knockout-js",
+      "destination": "/blog/lazy-loading-with-knockout",
+      "permanent": true
+    },
+    {
+      "source": "/lightbox-for-youtube-videos",
+      "destination": "/blog/lightbox-for-youtube-videos",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/01/29/Lightbox-for-YouTube-Videos.aspx",
+      "destination": "/blog/lightbox-for-youtube-videos",
+      "permanent": true
+    },
+    {
+      "source": "/2009/01/lightbox-for-youtube-videos",
+      "destination": "/blog/lightbox-for-youtube-videos",
+      "permanent": true
+    },
+    {
+      "source": "/demos/video-lightbox.html",
+      "destination": "/blog/lightbox-for-youtube-videos",
+      "permanent": true
+    },
+    {
+      "source": "/live-tv-linux",
+      "destination": "/blog/live-tv-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/03/live-tv-in-linux",
+      "destination": "/blog/live-tv-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/03/live-tv-with-hauppauge-wintv-hvr2250-in-elementary-os",
+      "destination": "/blog/live-tv-linux",
+      "permanent": true
+    },
+    {
+      "source": "/many-pitfalls-of-nhibernate-linq",
+      "destination": "/blog/many-pitfalls-of-nhibernate-linq",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/08/26/The-Many-Pitfalls-of-NHibernateLinq.aspx",
+      "destination": "/blog/many-pitfalls-of-nhibernate-linq",
+      "permanent": true
+    },
+    {
+      "source": "/the-many-pitfalls-of-nhibernate-linq",
+      "destination": "/blog/many-pitfalls-of-nhibernate-linq",
+      "permanent": true
+    },
+    {
+      "source": "/2009/08/the-many-pitfalls-of-nhibernate-linq",
+      "destination": "/blog/many-pitfalls-of-nhibernate-linq",
+      "permanent": true
+    },
+    {
+      "source": "/nhibernate-linq-1",
+      "destination": "/blog/nhibernate-linq-1",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/07/27/NHibernateLinq-10-is-out-and-about.aspx",
+      "destination": "/blog/nhibernate-linq-1",
+      "permanent": true
+    },
+    {
+      "source": "/nhibernate-linq-1-0-is-out-and-about",
+      "destination": "/blog/nhibernate-linq-1",
+      "permanent": true
+    },
+    {
+      "source": "/2009/07/nhibernate-linq-1-0-is-out-and-about",
+      "destination": "/blog/nhibernate-linq-1",
+      "permanent": true
+    },
+    {
+      "source": "/nhibernate-linq-criteria",
+      "destination": "/blog/nhibernate-linq-criteria",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/10/30/Creating-NHibernate-Linq-Query-from-arbitrary-Criteria.aspx",
+      "destination": "/blog/nhibernate-linq-criteria",
+      "permanent": true
+    },
+    {
+      "source": "/creating-nhibernate-linq-query-from-arbitrary-criteria",
+      "destination": "/blog/nhibernate-linq-criteria",
+      "permanent": true
+    },
+    {
+      "source": "/2009/10/creating-nhibernate-linq-query-from-arbitrary-criteria",
+      "destination": "/blog/nhibernate-linq-criteria",
+      "permanent": true
+    },
+    {
+      "source": "/2009/10/creating-nhibernate-linq-query-from-criteria",
+      "destination": "/blog/nhibernate-linq-criteria",
+      "permanent": true
+    },
+    {
+      "source": "/nvidia-drivers-ubuntu",
+      "destination": "/blog/nvidia-drivers-ubuntu",
+      "permanent": true
+    },
+    {
+      "source": "/2015/04/nvidia-drivers",
+      "destination": "/blog/nvidia-drivers-ubuntu",
+      "permanent": true
+    },
+    {
+      "source": "/2015/04/installing-nvidia-drivers-for-gtx-650-ti-boost-in-ubuntu-14-04",
+      "destination": "/blog/nvidia-drivers-ubuntu",
+      "permanent": true
+    },
+    {
+      "source": "/publishing-react-to-npm",
+      "destination": "/blog/publishing-react-to-npm",
+      "permanent": true
+    },
+    {
+      "source": "/2015/04/publishing-react-to-npm",
+      "destination": "/blog/publishing-react-to-npm",
+      "permanent": true
+    },
+    {
+      "source": "/2015/04/publishing-a-react-component-to-npm",
+      "destination": "/blog/publishing-react-to-npm",
+      "permanent": true
+    },
+    {
+      "source": "/purpose-built-software",
+      "destination": "/blog/purpose-built-software",
+      "permanent": true
+    },
+    {
+      "source": "/steam-on-linux",
+      "destination": "/blog/steam-on-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/03/steam-on-linux",
+      "destination": "/blog/steam-on-linux",
+      "permanent": true
+    },
+    {
+      "source": "/2014/03/moving-steam-folder-out-of-home-in-linux",
+      "destination": "/blog/steam-on-linux",
+      "permanent": true
+    },
+    {
+      "source": "/tortoise-svn-settings-for-beyond-compare-3",
+      "destination": "/blog/tortoise-svn-settings-for-beyond-compare-3",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/04/13/Tortoise-SVN-Settings-for-Beyond-Compare-3.aspx",
+      "destination": "/blog/tortoise-svn-settings-for-beyond-compare-3",
+      "permanent": true
+    },
+    {
+      "source": "/2009/04/tortoise-svn-settings-for-beyond-compare-3",
+      "destination": "/blog/tortoise-svn-settings-for-beyond-compare-3",
+      "permanent": true
+    },
+    {
+      "source": "/tough-times-out-there",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/03/09/Its-Tough-Times-Out-There.aspx",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/its-tough-times-out-there",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/it-s-tough-times-out-there",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/its-tough-times-out-there",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/2009/03/tough-times-out-there",
+      "destination": "/blog/tough-times-out-there",
+      "permanent": true
+    },
+    {
+      "source": "/transclude-in-knockout-js",
+      "destination": "/blog/transclude-in-knockout-js",
+      "permanent": true
+    },
+    {
+      "source": "/a-poor-mans-transclude-in-knockout-js",
+      "destination": "/blog/transclude-in-knockout-js",
+      "permanent": true
+    },
+    {
+      "source": "/2013/12/a-poor-mans-transclude-in-knockout-js",
+      "destination": "/blog/transclude-in-knockout-js",
+      "permanent": true
+    },
+    {
+      "source": "/2013/12/a-poor-man-s-transclude-in-knockout-js",
+      "destination": "/blog/transclude-in-knockout-js",
+      "permanent": true
+    },
+    {
+      "source": "/unpublish-isnt-a-word",
+      "destination": "/blog/unpublish-isnt-a-word",
+      "permanent": true
+    },
+    {
+      "source": "/2016/03/unpublish-isnt-a-word",
+      "destination": "/blog/unpublish-isnt-a-word",
+      "permanent": true
+    },
+    {
+      "source": "/2016/03/unpublish-isn-t-a-word",
+      "destination": "/blog/unpublish-isnt-a-word",
+      "permanent": true
+    },
+    {
+      "source": "/user-experience-matters-more-than-you-think",
+      "destination": "/blog/user-experience-matters-more-than-you-think",
+      "permanent": true
+    },
+    {
+      "source": "/2013/10/user-experience-matters-more-than-you-think",
+      "destination": "/blog/user-experience-matters-more-than-you-think",
+      "permanent": true
+    },
+    {
+      "source": "/we-make-shitty-software-and-so-do-you",
+      "destination": "/blog/we-make-shitty-software-and-so-do-you",
+      "permanent": true
+    },
+    {
+      "source": "/post/2009/07/09/we-make-shitty-software-and-so-do-you.aspx",
+      "destination": "/blog/we-make-shitty-software-and-so-do-you",
+      "permanent": true
+    },
+    {
+      "source": "/2009/07/we-make-shitty-software-and-so-do-you",
+      "destination": "/blog/we-make-shitty-software-and-so-do-you",
+      "permanent": true
+    },
+    {
+      "source": "/what-you-get-with-git",
+      "destination": "/blog/what-you-get-with-git",
+      "permanent": true
+    },
+    {
+      "source": "/2012/08/the-wonderful-world-of-git",
+      "destination": "/blog/what-you-get-with-git",
+      "permanent": true
+    },
+    {
+      "source": "/2012/08/what-you-get-with-git",
+      "destination": "/blog/what-you-get-with-git",
+      "permanent": true
+    },
+    {
+      "source": "/web-animation",
+      "destination": "https://github.com/chadly/chadly.net/blob/master/content/posts/web-animation/index.mdx",
+      "permanent": true
+    },
+    {
+      "source": "/trogdor",
+      "destination": "https://github.com/chadly/chadly.net/tree/master/src/trogdor",
+      "permanent": true
+    }
+  ]
 }
