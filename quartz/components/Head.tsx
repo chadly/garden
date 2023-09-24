@@ -31,8 +31,7 @@ export default (() => {
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/universe-brain.jpg`
-    const manifestPath = `https://${cfg.baseUrl}/static/site.webmanifest`
+    const ogImageDefaultPath = `/static/universe-brain.jpg`
 
     return (
       <head>
@@ -80,7 +79,9 @@ export default (() => {
           </>
         )}
 
-        <link rel="manifest" href={manifestPath} />
+        <link rel="icon" href="/static/favicon.ico" sizes="32x32" />
+        <link rel="apple-touch-icon" href="/static/apple-touch-icon.png" />
+        <link rel="manifest" href="/static/site.webmanifest" />
 
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
