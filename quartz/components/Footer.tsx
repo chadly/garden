@@ -15,11 +15,15 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
+          <li>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+              CC BY 4.0 License
+            </a>
+          </li>
+          <li>
+            Cultivated using <a href="https://obsidian.md/">Obsidian</a> and{" "}
+            <a href="https://quartz.jzhao.xyz/">Quartz</a>
+          </li>
         </ul>
       </footer>
     )
