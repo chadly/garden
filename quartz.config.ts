@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.chadly.net",
-    ignorePatterns: ["private", "templates", "templater", ".obsidian"],
+    ignorePatterns: ["private", "templates", "templater", ".obsidian", "journal"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
