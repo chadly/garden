@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.chadly.net",
-    ignorePatterns: ["private", "templates", "templater", ".obsidian", "journal"],
+    ignorePatterns: [],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fffcf9",
-          lightgray: "#f4eae2",
-          gray: "#e0d4c3",
-          darkgray: "#958779",
-          dark: "#6e594f",
-          secondary: "#5b7c99",
-          tertiary: "#b2ceb8",
-          highlight: "rgba(173, 192, 198, 0.15)",
-          textHighlight: "rgba(91, 124, 153, 0.25)",
+          light: "#FFFFFF", // white for background
+          lightgray: "#F8F8F8", // very light gray for subtle contrast
+          gray: "#B0B0B0", // lighter gray for standard contrast
+          darkgray: "#505050", // medium gray for text
+          dark: "#303030", // darker gray for high contrast elements
+          secondary: "#2E7D32", // vibrant green for highlights
+          tertiary: "#388E3C", // fresh green for accents
+          highlight: "rgba(46, 125, 50, 0.15)", // green highlight
+          textHighlight: "rgba(56, 142, 60, 0.2)",
         },
         darkMode: {
-          light: "#332f2c",
-          lightgray: "#514c47",
-          gray: "#827d75",
-          darkgray: "#ece4dc",
-          dark: "#f5efe7",
-          secondary: "#9eb6c1",
-          tertiary: "#c5d6ca",
-          highlight: "rgba(193, 207, 213, 0.15)",
-          textHighlight: "rgba(158, 182, 193, 0.25)",
+          light: "#101010", // very dark gray for background
+          lightgray: "#181818", // dark gray for subtle contrast
+          gray: "#7a8882", // medium dark gray for standard contrast
+          darkgray: "#B0D69D", // lighter green-gray for text
+          dark: "#E0F0E9", // very light green-gray for high contrast elements
+          secondary: "#66BB6A", // medium green-gray for links and highlights
+          tertiary: "#81C784", // fresh green for success messages and accents
+          highlight: "rgba(102, 187, 106, 0.15)", // medium green-gray highlight
+          textHighlight: "rgba(176, 214, 157, 0.3)",
         },
       },
     },
