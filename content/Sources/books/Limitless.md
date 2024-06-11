@@ -5,7 +5,7 @@ lastTendedAt: 2024-05-10 14:24:46.859901+00:00
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/169493960/jVX-ZRh1oG2jr-hKGbWrCMPJYRmx2VP-cO5zfzWDyy8-cover-cover.jpeg)
 
-[Limitless]()
+Limitless
 By [[people/Jim Kwik]]
 
 This book by Jim Kwik teaches how to unlock your mind's potential and enhance cognitive abilities. The key is to make reading a habit to improve memory, focus, and imagination. By learning how to learn effectively, you can unleash your limitless potential.
