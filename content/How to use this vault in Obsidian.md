@@ -2,6 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2022-09-24
+lastTendedAt: 2024-06-12
 ---
 ## 🖥️ Useful Hotkeys in Obsidian
 
@@ -25,12 +26,7 @@ These are useful hotkeys for creating and editing notes in Obsidian:
 
 | Hotkey             | Action                                |
 | ------------------ | ------------------------------------- |
-| `Ctrl + N`         | new seedling note                     |
-| `Ctrl + Shift + N` | new seedling note in new pane         |
-| `Ctrl + U`         | new fleeting note                     |
-| `Ctrl + J`         | new journal entry                     |
+| `Ctrl + N`         | New seed note                         |
+| `Ctrl + Q`         | Quick Add Menu                        |
 | `Ctrl + T`         | insert template                       |
 | `Ctrl + E`         | toggle note edit/view mode            |
-| `Ctrl + .`         | emoji picker 😎                       |
-| `Ctrl + K`         | link highlighted text to local file   |
-| `Ctrl + Shift + K` | link highlighted text to external URL |
