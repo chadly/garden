@@ -82,3 +82,27 @@ This book by Jim Kwik teaches how to unlock your mind's potential and enhance co
 
 ---
 
+### New highlights added June 15, 2024 at 8:00 PM
+> The human mind is always generalizing in order to make sense of the world. Here, there, and everywhere, we can find evidence to confirm our beliefs.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j0dvrxb9rfqde93sm6e5v8qw))
+
+related to compression progress
+
+---
+
+> What is one dominant question you ask yourself? Write it down.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j0dw5wxysajxy6mjvrd1693p))
+
+what can i be appreciative of in this moment?
+
+---
+
+> “In other words,” Clear noted, “when you are experiencing positive emotions like joy, contentment, and love, you will see more possibilities in your life.”
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j0ensrr69br4eqxg989bdxwh))
+
+
+---
+
