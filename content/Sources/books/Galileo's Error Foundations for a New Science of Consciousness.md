@@ -75,3 +75,47 @@ the objectivity of science depends on the subjectivity of conscious experience.
 
 ---
 
+### New highlights added June 30, 2024 at 12:00 PM
+> To solve the problem, we must somehow find a way of making consciousness, once again, the business of science.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1mryd93ttayxb6wckkewjdy))
+
+
+---
+
+> According to dualism, a human being is a kind of *composite entity:* a combination of a physical body and an immaterial mind.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1ms25ng0exgtcw57z78rba0))
+
+
+---
+
+> If a naturalistic dualist were persuaded of the truth of IIT, then her view would be that there is a fundamental psycho-physical law of nature—as fundamental as the law of gravity—that wherever you have integrated information you have consciousness.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1ms9149tr6y1bk1ebcv1vga))
+
+
+---
+
+> But if quantum dualism is true, the immaterial mind plays a role complementary to, rather than at odds with, physics. On the face of it, physics suggests that something in the vicinity of observation changes superpositions into definite values. The quantum dualist merely adopts this role for the conscious mind.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1mtcbsdpb900vnn2ne0ga76))
+
+
+---
+
+> Still, an important aim of quantum dualism is to preserve the commonsense idea that my mind is the cause of many of my actions.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1mtj20m7dy6rve80s6fgnge))
+
+
+---
+
+> > *The Law of Noncontradiction*—Any hypothesis which involves a contradiction is false.
+> This is the principle which mathematicians and logicians rely on in order to reach their conclusions.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j1mvq7ge7a5tzx85fge5918v))
+
+
+---
+
