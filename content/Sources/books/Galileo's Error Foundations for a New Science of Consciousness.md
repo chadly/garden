@@ -5,7 +5,7 @@ lastTendedAt: 2024-06-29 23:19:56.101108+00:00
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/189608497/MHkQhl1xb_J0FImnfLOFY47WQ1R104xoq-m99rBQwss-cove_9Foxg6t.jpg)
 
-[Galileo's Error: Foundations for a New Science of Consciousness]()
+Galileo's Error: Foundations for a New Science of Consciousness
 By [[people/Philip Goff]]
 
 The book discusses the challenges physical science faces in explaining consciousness. It explores the idea that science can reveal new ways of understanding the world and consciousness. The author argues for panpsychism as the most probable hypothesis for understanding the intrinsic nature of the universe.
