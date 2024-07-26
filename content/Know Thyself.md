@@ -57,7 +57,7 @@ TODO
 
 - [[Journaling is an effective way to process our emotions]]
 - [[Psychotherapy is an effective tool for processing emotions]]
-- [[Art as expression of emotion]]
+- [[Art Expresses and Evokes Emotion]]
 
 
 👇 refactor this stuff based on ideas from [[Socrates and how to develop self-knowledge]].

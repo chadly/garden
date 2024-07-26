@@ -10,7 +10,7 @@ Expressing feelings or emotions involves "letting go" of them — letting them p
 
 - [[Journaling is an effective way to process our emotions|journaling]]
 - talking through the emotions in therapy
-- [[Art as expression of emotion|feeling them through art]]
+- [[Art Expresses and Evokes Emotion|feeling them through art]]
 
 The Buddhist concept of "samskara" refers to the undigested emotions and experiences that shape our mental and emotional patterns. These unresolved impressions or unfelt emotions can [[Emotions deeply affect our thoughts, actions, and world view|influence our thoughts, feelings, and behaviors]], *often unconsciously*. By recognizing and processing these samskaras, we can gain a clearer [[Understanding Emotions is Key to Self-Knowledge|understanding of ourselves and our emotional landscape]].
 

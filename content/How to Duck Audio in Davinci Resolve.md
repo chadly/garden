@@ -1,11 +1,9 @@
 ---
 tags:
-  - seedling
+  - evergreen
 plantedAt: 2024-06-25
-lastTendedAt: 2024-06-25
+lastTendedAt: 2024-07-26
 ---
-## Jun 25th, 2024 9:06 am
-
 Open the *Dynamics* panel for each dialogue audio source.
 
 ![[dynamics_sidechain.png]]

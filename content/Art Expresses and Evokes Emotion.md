@@ -1,13 +1,12 @@
 ---
-aliases: [Art is a reflection of the artist inner emotional state]
-tags: [evergreen]
+aliases:
+  - Art is a reflection of the artist inner emotional state
+tags:
+  - evergreen
 plantedAt: 2022-09-22
-lastTendedAt: 2022-09-28
+lastTendedAt: 2024-07-26
 ---
-
-# Art is a reflection of the artist's inner emotional state
-
-Art wouldn't exist without *emotion*. Art is fundamentally an **expression of emotion**.
+Art wouldn't exist without *emotion*. Art is fundamentally an **expression of emotion** — an [[Consciousness Breathes Life into Matter|expression of the artist's inner world]].
 
 > Instead of reflecting states of the external world, art is held to reflect the inner state of the artist. This, at least, seems to be implicit in the core meaning of expression: the outer manifestation of an inner state. Art as a representation of outer existence has been replaced by art as an expression of humans’ inner life.
 > - [Encyclopedia Britannica](https://www.britannica.com/topic/philosophy-of-art/Art-as-expression)

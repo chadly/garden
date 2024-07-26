@@ -30,4 +30,4 @@ Computers become far more useful when they are networked together.
 
 ---
 
-The [[Art as expression of emotion|fundamental idea of art]] is taking existing things and combining them in new and creative ways where the [[Network emergent behavior|sum is greater than its parts]].
+The [[Art Expresses and Evokes Emotion|fundamental idea of art]] is taking existing things and combining them in new and creative ways where the [[Network emergent behavior|sum is greater than its parts]].
