@@ -119,3 +119,79 @@ the objectivity of science depends on the subjectivity of conscious experience.
 
 ---
 
+### New highlights added July 26, 2024 at 8:56 AM
+> putative
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3nwgzq67s7h257370k1d36y))
+
+putative (adjective): commonly accepted or presumed; assumed to be so without definitive proof 🤔🔍
+
+---
+
+> This is not how Russell and Eddington saw physics. To the surprise of the scientific community, they argued that physics had been so successful precisely because it had stopped trying to tell us anything about the nature of matter.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qkvf62vmvenenqbdymchxf))
+
+
+---
+
+> In 1623 Galileo declared that mathematics was to be the language of science. In the above quotation of 1928 we find Eddington fully appreciating, perhaps for the first time in the history of modern science, what this amounts to.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qm289dfpyfdhr1vgtfcrka))
+
+
+---
+
+> It is this predictive capacity that has enabled us to manipulate the natural world in extraordinary ways, leading to the technological revolution that has transformed our planet.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qm7h5a1wppm5f4y3g2mfyz))
+
+
+---
+
+> *The Problem of Intrinsic Natures*—Physical science restricts itself to providing information about the behavior of the things it talks about—particles, fields, spacetime—and tells us nothing about their intrinsic natures.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qmeet10jm973fj2xsvbr9b))
+
+
+---
+
+> There is a very real sense in which we have no idea what hydrogen and oxygen are, and hence we have no idea what water is!
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qmneg8tchjwv6pd7x6wk1z))
+
+
+---
+
+> Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe?
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qmrmw59ydzw1a2kqay1g11))
+
+
+---
+
+### New highlights added July 26, 2024 at 9:46 AM
+> In other words, I have but one small window onto the intrinsic nature of matter: I know that the intrinsic nature of the matter inside my brain involves consciousness. I know this because I am directly aware of the reality of my own consciousness. And, assuming dualism is false, this reality I am directly aware of is at least part of the intrinsic nature of my brain.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qppr5aprw6mkq17p8q5xa9))
+
+
+---
+
+> We are acquainted with an external world because its fibres run into our own consciousness; it is only our own fibres that we actually know; from these ends we more or less successfully reconstruct the rest, as a palaeontologist reconstructs an extinct monster from its footprint.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qptajdv6v02beq1jafj232))
+
+
+---
+
+> Problem 1: We need a place for consciousness.
+> Problem 2: We have a huge hole at the center of our scientific story.
+> Solution: Plug the hole with consciousness.
+> In other words, Eddington’s proposal is that consciousness is the intrinsic nature of matter. It is consciousness, for Eddington, that breathes fire into the equations of physics.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3qqpbycnxa6yaxk5sscnyc4))
+
+
+---
+
