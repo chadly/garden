@@ -2,7 +2,7 @@
 tags:
   - seedling
 plantedAt: 2024-07-26
-lastTendedAt: 2024-07-26
+lastTendedAt: 2024-07-27
 ---
 Split-brain patients present a fascinating paradox in neuroscience: they behave as if there are two conscious minds within a single person's head.
 
