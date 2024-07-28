@@ -2,7 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2024-07-26
-lastTendedAt: 2024-07-26
+lastTendedAt: 2024-07-28
 ---
 Science is not in the business of explaining the intrinsic nature of the world. Instead, it explains the **behavior** and **interactions** of the world purely for the purpose of **prediction**. This predictive power of science has led us to the modern age where our technology has transformed how we live.
 
@@ -35,7 +35,7 @@ When Galileo declared mathematics to be the language of science, he explicitly p
 
 Science doesn't have to deal with the _what_ (the intrinsic nature of matter), only the _how_ (the behavior). We shouldn't confuse the practical utility of predicting behavior that physical science gives us with the ontological aspiration of realizing a complete _Theory of Everything_.
 
-Science cannot give us that unless it goes beyond physical science, embracing it as an _aspect_ in a larger unified theory. To truly understand the nature of reality, we may need to find a way to bridge the gap between the quantitative world of science and the qualitative world of conscious experience.
+Science cannot give us that unless it goes beyond physical science, embracing it as an _aspect_ in a larger unified theory. To truly understand the nature of reality, we need to find a way to bridge the gap between the quantitative world of science and the qualitative world of conscious experience.
 
 ---
 

@@ -256,3 +256,32 @@ antipathy (noun): a deep-seated feeling of aversion or dislike; hostility 💔�
 
 ---
 
+### New highlights added July 28, 2024 at 1:17 PM
+> *How does a disunified brain become a unified brain?* The problem is not solved, but possible ways forward open up. It could be the *unified cognitive goals* of the brain, in terms of processing information and representing the environment, that focus its disunified consciousness into unified states of experience.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3x49mz583wjr76pxej8s79e))
+
+
+---
+
+> To properly understand the human situation is to appreciate that less than certainty can be enough to trust, to engage.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3x7hv1yy4941kn08bhsjzgy))
+
+
+---
+
+> Could our philosophical worldview be partly responsible for our inability to avert climate catastrophe? The writer and campaigner Naomi Klein places blame at the foot of *mind-body dualism,* or as she puts it, the “corrosive separation between mind and body—and between body and earth—from which both the Scientific Revolution and the Industrial Revolution sprang.”
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3x7ted2acmcv99nws1zveta))
+
+
+---
+
+> When our official worldview is that biological systems are mechanistic, most of us end up believing that consciousness is really something over and above those mechanistic biological systems. In other words, we end up being closet dualists.
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j3x7y466tqn54ftfsk493zv4))
+
+
+---
+
