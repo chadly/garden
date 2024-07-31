@@ -285,3 +285,12 @@ antipathy (noun): a deep-seated feeling of aversion or dislike; hostility 💔�
 
 ---
 
+### New highlights added July 30, 2024 at 4:32 PM
+> profligate
+> 
+>  ([View Highlight](https://read.readwise.io/read/01j403208ckcm67xveq905rhtw))
+
+profligate (adjective): recklessly extravagant; wasteful 💸😩
+
+---
+
