@@ -2,7 +2,7 @@
 tags:
   - seedling
 plantedAt: 2024-10-21
-lastTendedAt: 2024-10-21
+lastTendedAt: 2024-10-23
 ---
 In the rapidly evolving landscape of artificial intelligence, the question of who owns and controls AI models is becoming increasingly crucial.
 
@@ -24,7 +24,7 @@ We want the plurality of ideas because each model is basically the embodiment of
 
 ## AI and Free Speech
 
-It's a free speech issue, and the model of open source has served the technology community well. By treating AI models as a form of expression, we can:
+It's a [[The Value of Free Speech in Society|free speech issue]], and the model of open source has served the technology community well. By treating AI models as a form of expression, we can:
 
 1. **Protect Innovation**: Ensure that new and potentially controversial ideas in AI are not suppressed.
 2. **Foster Transparency**: Open-source models allow for public scrutiny and improvement.

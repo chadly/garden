@@ -1,8 +1,8 @@
 ---
 tags:
-  - seedling
+  - evergreen
 plantedAt: 2024-06-07
-lastTendedAt: 2024-07-27
+lastTendedAt: 2024-10-23
 ---
 Intelligence is an act of **perpetual divergence**, a never-ending *exploration* of the vast and infinite landscape of ideas, problems, and solutions.
 

@@ -1,10 +1,10 @@
 ---
 tags:
-  - seedling
+  - evergreen
 plantedAt: 2024-06-12
-lastTendedAt: 2024-06-12
+lastTendedAt: 2024-10-23
 ---
-Language shapes the way we think and certain specific phrases belie a victim-based mindset. When we become aware of our language (internal and external), we get a window into our subconscious mind and can begin to take ownership of the creative force in our life.
+[[Language shapes the way we think]] and certain specific phrases belie a victim-based mindset. When we become aware of our language (internal and external), we get a window into our subconscious mind and can begin to take ownership of the creative force in our life.
 
 ## Big 5
 

@@ -2,7 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2022-09-08
-lastTendedAt: 2024-04-10
+lastTendedAt: 2024-10-23
 title: Welcome
 ---
 Not all those who wander are lost.
@@ -19,7 +19,7 @@ Learn more in general about [[Why Zettelkasten|zettelkasten]].
 
 These are the things I'm currently thinking about:
 
-* [[Strong Emotions Trigger Program Mode in the Brain]]
-* [[Comedy and tragedy are two sides of the same coin]]
-* [[Achievement Is a Process of Discovery]]
-* [[Novelty Search Over Objective Optimization]]
+* [[Alignment Reduces Intelligence in AI Models]]
+* [[Inevitability of Unaligned Models]]
+* [[Language shapes the way we think]]
+* [[Intelligence is an Act of Divergence]]

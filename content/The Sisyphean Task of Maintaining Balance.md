@@ -1,8 +1,8 @@
 ---
 tags:
-  - seedling
+  - evergreen
 plantedAt: 2024-03-20
-lastTendedAt: 2024-07-27
+lastTendedAt: 2024-10-23
 ---
 The metaphor of Sisyphus, condemned to endlessly roll a boulder up a hill only for it to roll down each time it nears the top, aptly illustrates the ongoing challenge of maintaining balance in life and work.
 

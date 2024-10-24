@@ -2,11 +2,11 @@
 tags:
   - seedling
 plantedAt: 2024-10-21
-lastTendedAt: 2024-10-21
+lastTendedAt: 2024-10-23
 ---
 Multi-agent cognition architectures are typically used to give different roles to multiple AI models having them work together to solve a shared problem.
 
-However, models fine-tuned using RLHF techniques can fall into sycophancy — the tendency for models to be overly agreeable failing to provide critical analysis.
+However, models fine-tuned using [[RLHF Attempts to Solve AI Alignment|RLHF techniques]] can fall into sycophancy — the tendency for models to be overly agreeable failing to provide critical analysis.
 
 Instead of relying on censorship and suppression for alignment, we can leverage multi-agent architectures to create a system of checks and balances within AI systems. By assigning different roles and perspectives to various agents, we can foster a more robust and nuanced decision-making process.
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - seedling
+  - evergreen
 plantedAt: 2024-07-28
-lastTendedAt: 2024-07-28
+lastTendedAt: 2024-10-23
 ---
 Mind-body dualism, [[Science Explains How, Not What|the idea from which the scientific and industrial revolutions sprang forth]], is the core philosophical issue preventing humanity from dealing with the consequences of climate change.
 
