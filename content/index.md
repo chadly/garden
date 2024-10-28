@@ -2,7 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2022-09-08
-lastTendedAt: 2024-10-23
+lastTendedAt: 2024-10-25
 title: Welcome
 ---
 Not all those who wander are lost.
@@ -20,6 +20,6 @@ Learn more in general about [[Why Zettelkasten|zettelkasten]].
 These are the things I'm currently thinking about:
 
 * [[Alignment Reduces Intelligence in AI Models]]
-* [[Inevitability of Unaligned Models]]
+* [[Consciousness as a Coherence Engine]]
 * [[Language shapes the way we think]]
 * [[Intelligence is an Act of Divergence]]
