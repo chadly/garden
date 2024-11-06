@@ -4,7 +4,7 @@ tags:
 aliases:
   - Temet Nosce
 plantedAt: 2022-09-15
-lastTendedAt: 2024-04-11
+lastTendedAt: 2024-11-03
 ---
 ## Why is self-knowledge such a prestigious good?
 
@@ -12,7 +12,7 @@ Self-knowledge holds a prestigious position in our culture due to its foundation
 
 ## Why is self-knowledge difficult to attain?
 
-The path to self-knowledge is fraught with challenges because it requires [[Why We Must Face the Darkness|confronting aspects of ourselves]] that we may find uncomfortable or difficult to accept. [[Materialism is detrimental to society|Our society's materialistic values]] often overshadow the importance of introspection, making external success the focus rather than inner growth. Additionally, cultural norms such as [[Toxic masculinity|toxic masculinity]] discourage emotional vulnerability making it harder for individuals to [[Journaling is an effective way to process our emotions|engage with their feelings and thoughts honestly]]. The complexity of our emotions and thoughts, influenced by our experiences and environment, adds layers of difficulty in understanding our true selves.
+The path to self-knowledge is fraught with challenges because it requires confronting aspects of ourselves that we may find uncomfortable or difficult to accept. Our society's materialistic values often overshadow the importance of introspection, making external success the focus rather than inner growth. Additionally, cultural norms such as [[Toxic masculinity|toxic masculinity]] discourage emotional vulnerability making it harder for individuals to [[Journaling is an effective way to process our emotions|engage with their feelings and thoughts honestly]]. The complexity of our emotions and thoughts, influenced by our experiences and environment, adds layers of difficulty in understanding our true selves.
 
 ## What are the dangers that come with a lack of self-knowledge?
 
