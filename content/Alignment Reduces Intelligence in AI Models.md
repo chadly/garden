@@ -2,7 +2,7 @@
 tags:
   - seedling
 plantedAt: 2024-10-21
-lastTendedAt: 2024-10-23
+lastTendedAt: 2025-05-22
 ---
 [[Intelligence is an Act of Divergence|Intelligence is an act of divergence]] — exploring and innovating on ideas that have not been explored before. Because of that fact, the idea of alignment (particularly mechanisms [[RLHF Attempts to Solve AI Alignment|such as RLHF]]) actively reduces intelligence in AI models.
 

@@ -2,19 +2,17 @@
 tags:
   - seedling
 plantedAt: 2024-04-05
-lastTendedAt: 2024-04-05
+lastTendedAt: 2025-05-22
 ---
-In a rapidly changing world, the rate at which an individual can learn and adapt is becoming the primary determinant of personal growth and success. The ability to rapidly assimilate new information, [[Knowledge Synthesis Provides Competitive Advantage|synthesize insights]], and translate that learning into action provides a powerful advantage.
+In a rapidly changing world, the rate at which an individual can learn and adapt is becoming the primary determinant of personal growth and success. The ability to rapidly assimilate new information, [[The Opposable Mind Transcends Binary Thinking|synthesize insights]], and translate that learning into action provides a powerful advantage.
 
-This rate of learning (ROL) is enhanced by [[Diversity of Thought Aids Knowledge Synthesis|exposure to diverse ideas]], active experimentation, and collaboration with others.
+This requires:
+- [[Confidence to learn is more important than learning|confidence in one's ability to learn]]
+- navigating [[Information Overload Is a Progress Trap|information abundance strategically]]
+- applying [[Kaizen - The Philosophy of Continuous Improvement|continuous improvement principles]] to the learning process itself
+- stepping out of comfort zones and taking on novel challenges
 
-It requires:
-
-- continuously stepping out of comfort zones,
-- taking on novel challenges,
-- and strategically leveraging the knowledge of others to accelerate growth.
-
-In a world of accelerating change, ROL is the essential metric for tracking and optimizing personal development.
+In a world of accelerating change, Rate of Learning (ROL) is the essential metric for tracking and optimizing personal development.
 
 ---
 

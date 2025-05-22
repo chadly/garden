@@ -2,9 +2,9 @@
 tags:
   - seedling
 plantedAt: 2024-03-20
-lastTendedAt: 2024-04-12
+lastTendedAt: 2025-05-22
 ---
-Hegel's dialectical method is a way of understanding the development of ideas and history through [[Cultivating the Opposable Mind|contradictions and their resolutions]]. It's structured around three key components:
+Hegel's dialectical method is a way of understanding the development of ideas and history through [[The Opposable Mind Transcends Binary Thinking|contradictions and their resolutions]]. It's structured around three key components:
 
 1. **Thesis:** The initial condition or statement of an idea or phenomenon. It represents an existing state of affairs or a concept that encapsulates a particular perspective or reality.
 
@@ -12,7 +12,7 @@ Hegel's dialectical method is a way of understanding the development of ideas an
 
 3. **Synthesis:** The resolution of the conflict between the thesis and antithesis. This is not simply a compromise between the two but a higher level of understanding or a new condition that transcends and includes elements of both the thesis and antithesis. The synthesis then becomes the new thesis in a subsequent dialectical cycle, leading to further development and refinement of ideas.
 
-This process emphasizes conflict and resolution as the [[The Opposable Mind Enhances Cognitive Flexibility|drivers of progress and development]].
+This process emphasizes conflict and resolution as the [[The Opposable Mind Transcends Binary Thinking|drivers of progress and development]].
 
 ## Relation to Taoism
 

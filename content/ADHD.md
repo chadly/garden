@@ -2,6 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2022-09-20
+lastTendedAt: 2025-05-22
 ---
 ADHD is an [[ADHD is an executive function disorder|executive function disorder]]. It is characterized by:
 
@@ -27,6 +28,6 @@ Since there are [[Taoism Philosophy|two sides to every coin]], ADHD shouldn't be
 - exceptional resilience and adaptability
 - the capacity for hyper-focus under the right conditions
 
-Indeed, viewing ADHD through a dual lens acknowledges both the challenges and the inherent strengths that come with this condition. It's essential to recognize that ADHD, while presenting various executive function challenges does not encapsulate the entirety of an individual's cognitive or emotional capabilities.
+Indeed, [[The Opposable Mind Transcends Binary Thinking|viewing ADHD through a dual lens]] acknowledges both the challenges and the inherent strengths that come with this condition. It's essential to recognize that ADHD, while presenting various executive function challenges does not encapsulate the entirety of an individual's cognitive or emotional capabilities.
 
  Embracing this balanced viewpoint, individuals with ADHD can work towards creating a fulfilling life that acknowledges their challenges but also leverages their unique strengths.
