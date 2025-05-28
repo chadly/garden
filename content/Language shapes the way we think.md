@@ -2,7 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2024-10-23
-lastTendedAt: 2024-10-23
+lastTendedAt: 2025-05-28
 ---
 Our understanding of reality is fundamentally bounded by the language we use to describe it. Like a camera lens that can only capture certain wavelengths of light, our linguistic framework determines what aspects of reality we can perceive, process, and communicate.
 
@@ -15,3 +15,7 @@ Even abstract thought is molded by language. Programming languages, for instance
 This understanding has profound implications for artificial intelligence. As we develop AI systems using specific programming languages and training them on particular human languages, we are inadvertently [[Human Knowledge Hinders Long-Term AI Progress|embedding certain ways of thinking and perceiving]]. The linguistic structures we use to build and interact with AI may fundamentally shape its capability to understand and interact with reality.
 
 Our language isn't just a tool for describing reality — [[The Tools We Use Shape What's Possible|it's the scaffolding upon which we build our understanding]] of it.
+
+---
+##### Sources
+- [[What if We Had Bigger Brains Imagining Minds Beyond Ours]]
