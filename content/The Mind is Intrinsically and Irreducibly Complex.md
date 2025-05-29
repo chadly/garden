@@ -2,9 +2,9 @@
 tags:
   - seedling
 plantedAt: 2024-04-10
-lastTendedAt: 2024-04-10
+lastTendedAt: 2025-05-28
 ---
-The actual contents of minds are *incredibly complex*, and attempts to find simple ways to represent or reason about these contents are misguided as they will fail to capture the full richness and intricacy of mental processes.
+The actual contents of minds are [[Computational Irreducibility|irreducibly complex]], and attempts to find simple ways to represent or reason about these contents are misguided as they will fail to capture the full richness and intricacy of mental processes.
 
 This complexity is inherent and cannot be easily reduced or simplified.
 
