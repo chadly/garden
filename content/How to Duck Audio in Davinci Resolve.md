@@ -2,18 +2,14 @@
 tags:
   - evergreen
 plantedAt: 2024-06-25
-lastTendedAt: 2024-07-26
+lastTendedAt: 2025-06-18
 ---
-Open the *Dynamics* panel for each dialogue audio source.
+Open the *Dynamics* panel for each dialogue audio source. Send that to a *Dialogue* bus.
+
+Open *Dynamics* on the music soundtrack to set the *Compressor* settings.
 
 ![[dynamics_sidechain.png]]
 
-Click the *Send* to send that audio information to the sidechain.
-
-Lower the base music volume to ~ -18 dB
+Lower the base music volume to ~ -16 dB
 
 ![[music_level.png]]
-
-Open the music track *Dynamics* panel and set the compressor to *Listen* to the sidechain and to compress the audio with the following settings:
-
-![[music_compression.png]]
