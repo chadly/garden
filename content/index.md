@@ -2,7 +2,7 @@
 tags:
   - evergreen
 plantedAt: 2022-09-08
-lastTendedAt: 2025-05-28
+lastTendedAt: 2025-07-04
 title: Welcome
 ---
 Not all those who wander are lost.
@@ -19,5 +19,6 @@ Learn more in general about [[Why Zettelkasten|zettelkasten]].
 
 These are the things I'm currently thinking about:
 
-* [[Language shapes the way we think]]
 * [[Computational Irreducibility]]
+* [[Complexity Theory]]
+* [[The Complementarity and Holarchy of Life]]
