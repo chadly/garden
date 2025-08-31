@@ -1,6 +1,8 @@
 ---
-tags: [evergreen]
-aliases: How does psychotherapy work
+tags:
+  - evergreen
+aliases:
+  - How does psychotherapy work
 plantedAt: 2022-09-26
 lastTendedAt: 2022-09-26
 ---

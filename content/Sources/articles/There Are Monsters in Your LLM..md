@@ -1,5 +1,6 @@
 ---
-tags: pollinator
+tags:
+  - pollinator
 plantedAt: 2024-12-10
 lastTendedAt: 2024-12-10 16:51:56.085033+00:00
 ---

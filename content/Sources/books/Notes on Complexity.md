@@ -1,5 +1,7 @@
 ---
-tags: pollinator, rw_inbox
+tags:
+  - pollinator
+  - rw_inbox
 plantedAt: 2025-07-03
 lastTendedAt: 2025-07-03 17:03:34.156761+00:00
 ---
